@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feryanggriawan
-- 👀 I’m interested in leraning
-- 🌱 I’m currently learning anything
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning programming old time learn internet marketing
 - 📫 How to reach me fb.me/feryangggriawan
 
 <!---
